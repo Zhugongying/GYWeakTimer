@@ -1,0 +1,16 @@
+PODS:
+  - GYWeakTimer (0.1.0)
+
+DEPENDENCIES:
+  - GYWeakTimer (from `../`)
+
+EXTERNAL SOURCES:
+  GYWeakTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GYWeakTimer: 674e66eae01f8fd357a59b6e5f5dbb40f70f789f
+
+PODFILE CHECKSUM: 87ae7de43055e46873c6f88f503ffc7971d94384
+
+COCOAPODS: 1.9.1

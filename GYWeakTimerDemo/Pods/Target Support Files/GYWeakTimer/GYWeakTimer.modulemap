@@ -1,0 +1,6 @@
+framework module GYWeakTimer {
+  umbrella header "GYWeakTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}
